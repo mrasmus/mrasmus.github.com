@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: pretty
+permalink: /:title/
 ---
 
 I'm a Maker, Hacker, etc.
