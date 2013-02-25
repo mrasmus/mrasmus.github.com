@@ -1,7 +1,7 @@
 ---
 laout: default
 title: About
-permalink: /:title
+permalink: /about
 ---
 
 I'm a Maker, Hacker, etc.
