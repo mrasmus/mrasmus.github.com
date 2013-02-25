@@ -1,8 +1,7 @@
 ---
-laout: default
+layout: default
 title: About
-permalink: /about
+permalink: pretty
 ---
-{% include JB/setup %}
 
 I'm a Maker, Hacker, etc.
