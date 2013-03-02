@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: About Matt
+tagline: No, seriously, who is this guy?
 permalink: /about/
 ---
  I've done a few things.
