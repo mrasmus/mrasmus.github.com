@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 tagline: No, seriously, who is this guy?
 permalink: /about/
 group: navigation
