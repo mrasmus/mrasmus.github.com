@@ -14,8 +14,8 @@ My primary goal with this site is to have a place to document the projects I wor
 The best ways to get ahold of me tend to be email and Twitter (below); if you've got any questions for me, feel free to drop me a line!
 
 ##Contact Info
-  Matthew Rasmussen
-  email: <a href="mailto:mrasmus@gmail.com">mrasmus@gmail.com</a>
-  Twitter: <a href="http://twitter.com/mrasmus">@mrasmus</a>
-  GitHub: <a href="https://github.com/mrasmus">mrasmus</a>
+    Matthew Rasmussen
+	email: <a href="mailto:mrasmus@gmail.com">mrasmus@gmail.com</a>
+	Twitter: <a href="http://twitter.com/mrasmus">@mrasmus</a>
+	GitHub: <a href="https://github.com/mrasmus">mrasmus</a>
 
