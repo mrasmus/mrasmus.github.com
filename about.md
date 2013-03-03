@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Matt
+title: About
 tagline: No, seriously, who is this guy?
 permalink: /about/
 group: navigation
