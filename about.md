@@ -14,9 +14,7 @@ My primary goal with this site is to have a place to document the projects I wor
 The best ways to get ahold of me tend to be email and Twitter (below); if you've got any questions for me, feel free to drop me a line!
 
 ##Contact Info
-Email: <a href="mailto:mrasmus@gmail.com">mrasmus@gmail.com</a>
-
-Twitter: <a href="http://twitter.com/mrasmus">@mrasmus</a>
-
-GitHub: <a href="https://github.com/mrasmus">mrasmus</a>
+> Email: <a href="mailto:mrasmus@gmail.com">mrasmus@gmail.com</a><br />
+> Twitter: <a href="http://twitter.com/mrasmus">@mrasmus</a><br />
+> GitHub: <a href="https://github.com/mrasmus">mrasmus</a><br />
 
